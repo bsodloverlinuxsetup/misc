@@ -1,4 +1,5 @@
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+A,st-luke-git,"terminal"
 ,dmenu,"is a browser"
 ,i3-gaps,"is the main graphical user interface and window manager."
 ,xorg-server,"is the graphical server."
