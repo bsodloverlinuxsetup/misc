@@ -107,3 +107,5 @@ A,spotifyd-full-git,"daemon for spotify"
 A,python-pywal,"wal color"
 ,alacritty,"Alternative terminal"
 ,playerctl,"playerctl"
+,wmctrl,"wmctrl"
+
